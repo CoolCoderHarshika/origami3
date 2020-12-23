@@ -1,0 +1,32 @@
+h1{
+    color:brown;
+    padding-left: 30px;
+    color:#ffffff
+}
+
+.header{
+    border:solid;
+    background-color:#ffffff
+}
+.grid{
+    display:flex;
+    flex-flow: row;
+    justify-content: center;
+    background-color: #bebe0f
+}
+.footer{
+    display:flex
+  
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: rbg(255,128,255) ;
+}
+a:link{
+    color:white;
+}
+a:visited{
+    columns: #f0f0f0;
+}
